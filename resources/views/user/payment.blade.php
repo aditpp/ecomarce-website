@@ -41,11 +41,11 @@
                                 <div class="payment-methods">
                                     <div class="single-payment-method">
                                         <a class="text-decoration-none " href="#" data-bs-toggle="modal"
-                                            data-bs-target="#stripe">
+                                            data-bs-target="#QRIS">
                                             <img class=""
-                                                src="https://geniusdevs.com/codecanyon/omnimart40/assets/images/1601930611stripe-logo-blue.png"
-                                                alt="Stripe" title="Stripe">
-                                            <p>Stripe</p>
+                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhvTtjN1Bj37W3jTiire9jlqgP046Je6-JPvIVEMjW6avji3kH1eC5HyUDIY8q1l6z89kidy_XZz4cX7-d_rdSentSrY94naUFcRo-NhiEvMUWmevEbQz-xRdMLUFSr61dHVvbVDq58GmxM0UAIgwnfCak8KWr0wTa0UmmjdUQTTcm2pEd3YjuHtPj9Q/s2161/Logo%20QRIS.png"
+                                                alt="QRIS" title="QRIS">
+                                            <p>QRIS</p>
                                         </a>
                                     </div>
                                     <div class="single-payment-method">
