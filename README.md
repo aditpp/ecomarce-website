@@ -35,7 +35,7 @@ To run this Laravel app, you need to have the following software installed on yo
     ```bash
     php artisan key:generate
     ```
-6. Migrate the database upload database file in folder database:
+6. Migrate the database upload database file in folder database/ecomarce.sql to       Mysql:
     ```bash
     php artisan migrate
     ```
